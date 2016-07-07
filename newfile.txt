@@ -1,2 +1,3 @@
 This is a changed file I'm pushing to a branch.
-Hopefully I can merge it to master as well.
+Hopefully I will merge it to master as well.
+AND NOW SOMEONE ELSE IS EDITING THIS FILE!
